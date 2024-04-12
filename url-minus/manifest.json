@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "URL Minus",
+  "version": "1.0",
+  "description": "Decrease the ending number of the current URL",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_title": "URL Minus",
+    "default_icon": {
+      "16": "icons/minus-16.png",
+      "32": "icons/minus-32.png",
+      "64": "icons/minus-64.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
