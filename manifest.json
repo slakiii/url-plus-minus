@@ -7,9 +7,9 @@
   "action": {
     "default_title": "URL Plus",
     "default_icon": {
-      "16": "icons/arrow-up-16.png",
-      "32": "icons/arrow-up-32.png",
-      "64": "icons/arrow-up-64.png"
+      "16": "icons/plus-16.png",
+      "32": "icons/plus-32.png",
+      "64": "icons/plus-64.png"
     }
   },
   "background": {
